@@ -81,7 +81,7 @@ body {
   font-size: 30px;
   text-align: center;
   border-radius: 45px;
-  height: 400px;
+  height: 230px;
   width: 900px;
   color: black;
 
@@ -90,7 +90,18 @@ body {
 
 }
 
+.grid-item3 {
 
+  background-color: #C4C4C4;
+  border: 10px solid black;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  border-radius: 45px;
+  height: 200px;
+  color: black;
+  
+}
 
 
 
