@@ -58,6 +58,7 @@ body {
   grid-template-columns: 45% 25% ;
   grid-column-gap:100px ;
   padding: 10px;
+ 
 }
 .grid-item {
   background-color: #C4C4C4;
@@ -143,4 +144,11 @@ body {
   width: 50%;
 
 
+}
+
+
+
+.topnav2 {
+  overflow: hidden;
+  background-color: #0000A4;
 }
