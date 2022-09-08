@@ -81,6 +81,9 @@ body {
 
 
 .grid-item2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: #C4C4C4;
   border: 10px solid black;
   padding: 20px;
@@ -90,6 +93,7 @@ body {
   height: 300px;
   width: 900px;
   color: black;
+
 
 
 
